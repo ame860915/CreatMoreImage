@@ -1,0 +1,9 @@
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\bin\Debug\ImageColor.exe.config
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\bin\Debug\ImageColor.exe
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\bin\Debug\ImageColor.pdb
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\obj\Debug\ImageColor.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\obj\Debug\ImageColor.Form1.resources
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\obj\Debug\ImageColor.Properties.Resources.resources
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\obj\Debug\ImageColor.csproj.GenerateResource.Cache
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\obj\Debug\ImageColor.exe
+C:\Users\jimmy\Desktop\色彩校正轉換\ImageColor\ImageColor\obj\Debug\ImageColor.pdb
